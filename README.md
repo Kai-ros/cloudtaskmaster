@@ -11,3 +11,6 @@ In this lab, we will begin the task of migrating our application from a “monol
 * [PUT](https://fkdpj6z18l.execute-api.us-west-2.amazonaws.com/dev/tasks/{id}/assign/{assignee})
 * [GET_TASK_USER](https://fkdpj6z18l.execute-api.us-west-2.amazonaws.com/dev/tasks/{id})
 
+## Collaborators / Code Sherpas
+* Marisha Hoza
+* Trevor Dobson
